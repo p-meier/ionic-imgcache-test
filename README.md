@@ -17,6 +17,7 @@ ionic platform add ios [android]
 ```
 ionic plugin add org.apache.cordova.file
 ionic plugin add org.apache.cordova.file-transfer
+ionic plugin add org.apache.cordova.device
 ```
 
 ###Build and emulate
